@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lfm status="ok">
+<lovedtracks user="Grafikart" total="47" page="1" perPage="5" totalPages="10">
+    <track>
+        <name>Le Long De La Riviere Tendre</name>
+        <mbid></mbid>
+        <url>www.last.fm/music/S%C3%A9bastien+Tellier/_/Le+Long+De+La+Riviere+Tendre</url>
+                <date uts="1262960379">8 Jan 2010, 14:19</date>
+                <artist> 
+            <name>Sébastien Tellier</name>
+            <mbid>ac69016f-42cc-4322-b70e-101458b769aa</mbid>
+            <url>http://www.last.fm/music/S%C3%A9bastien+Tellier</url>
+        </artist>
+                    <image size="small">http://images.amazon.com/images/P/B000CFWNNA.01.MZZZZZZZ.jpg</image>
+        <image size="medium">http://images.amazon.com/images/P/B000CFWNNA.01.MZZZZZZZ.jpg</image>
+        <image size="large">http://images.amazon.com/images/P/B000CFWNNA.01.MZZZZZZZ.jpg</image>
+        <image size="extralarge">http://images.amazon.com/images/P/B000CFWNNA.01.MZZZZZZZ.jpg</image>
+        </track>
+    <track>
+        <name>Mad World</name>
+        <mbid></mbid>
+        <url>www.last.fm/music/Erlend+Bratland/_/Mad+World</url>
+                <date uts="1262479801">3 Jan 2010, 00:50</date>
+                <artist> 
+            <name>Erlend Bratland</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Erlend+Bratland</url>
+        </artist>
+                    <image size="small">http://userserve-ak.last.fm/serve/34s/23752875.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/23752875.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/23752875.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/23752875.jpg</image>
+        </track>
+    <track>
+        <name>Love Island</name>
+        <mbid></mbid>
+        <url>www.last.fm/music/Fatboy+Slim/_/Love+Island</url>
+                <date uts="1262372600">1 Jan 2010, 19:03</date>
+                <artist> 
+            <name>Fatboy Slim</name>
+            <mbid>34c63966-445c-4613-afe1-4f0e1e53ae9a</mbid>
+            <url>http://www.last.fm/music/Fatboy+Slim</url>
+        </artist>
+                    <image size="small">http://userserve-ak.last.fm/serve/34s/32219495.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/32219495.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/32219495.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/32219495.jpg</image>
+        </track>
+    <track>
+        <name>Matilda</name>
+        <mbid></mbid>
+        <url>www.last.fm/music/Parov+Stelar/_/Matilda</url>
+                <date uts="1262121395">29 Dec 2009, 21:16</date>
+                <artist> 
+            <name>Parov Stelar</name>
+            <mbid>fe1a873d-2000-4789-a895-4187fe756203</mbid>
+            <url>http://www.last.fm/music/Parov+Stelar</url>
+        </artist>
+                    <image size="small">http://userserve-ak.last.fm/serve/34s/32912277.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/32912277.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/32912277.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/32912277.jpg</image>
+        </track>
+    <track>
+        <name>Wherever You Are</name>
+        <mbid></mbid>
+        <url>www.last.fm/music/Ulrich+Schnauss/_/Wherever+You+Are</url>
+                <date uts="1260704798">13 Dec 2009, 11:46</date>
+                <artist> 
+            <name>Ulrich Schnauss</name>
+            <mbid>29f6333a-b4c8-4416-8fdf-598bcef1122a</mbid>
+            <url>http://www.last.fm/music/Ulrich+Schnauss</url>
+        </artist>
+                    <image size="small">http://userserve-ak.last.fm/serve/34s/39098353.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/39098353.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/39098353.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39098353.png</image>
+        </track>
+</lovedtracks></lfm>
